@@ -16,4 +16,8 @@ body {
   background-color: #000;
   opacity: 0.5;
 }
-
+.carousel-caption {
+  transform: translateY(-50%);
+  bottom: initial;
+  top: 50%;
+}
